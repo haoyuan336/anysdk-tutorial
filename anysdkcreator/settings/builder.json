@@ -1,0 +1,28 @@
+{
+  "appKey": "ECD6798E-26EE-1205-26A4-A1148F7B5C62",
+  "appSecret": "fdb62bc5e4c58fa00bbf2c1a0f9cb714",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "includeAnySDK": true,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "http://oauth.anysdk.com/api/OauthLoginDemo/Login.php",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.enshi.pubchess",
+  "privateKey": "4EB88DC06E3E29913A4399A8B8169B81",
+  "renderMode": "0",
+  "startScene": "5bd04978-0f55-47a0-a1a0-02e3ac2a8c4d",
+  "title": "anysdkcreator",
+  "webOrientation": "auto",
+  "xxteaKey": "42f0b2b0-a509-41"
+}
